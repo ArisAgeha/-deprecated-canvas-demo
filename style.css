@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+   
+canvas {
+    display: block; 
+}
+
+.selector {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.icon {
+    width: 2em; height: 2em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+}
